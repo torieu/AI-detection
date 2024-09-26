@@ -1,0 +1,1490 @@
+:: StoryTitle
+Rozpoznání použití AI ve slohových prací
+
+
+:: StoryData
+{
+  "ifid": "E9E9B43F-C205-4C9E-8BA9-9D7427CF84CB",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "intro",
+  "tag-colors": {
+    "done": "green"
+  },
+  "zoom": 0.6
+}
+
+
+:: \ Adam02 {"position":"500,300","size":"100,100"}
+Adam odevzdal následující slohovou práci:
+
+<img src="https://i.ibb.co/qd7BqtL/adam-sloh.png" alt="adam-sloh" border="0">
+
+[[Přečíst text, pokud se obrázek nezobrazuje->Adam sloh]]
+
+
+
+
+Máte podezření, že Adam práci nepsal sám? 
+
+
+[[Ne, Adam práci určitě vypracoval sám.->Adam03a]]
+
+[[Ano, mám pocit, že někde v procesu použil AI.->Adam03b]]
+
+
+
+
+:: \ Bara02 {"position":"500,800","size":"100,100"}
+Bára odevzdala následující slohovou práci:
+
+
+<a href="https://ibb.co/xjSSYFj"><img src="https://i.ibb.co/cFccwYF/ba-ra-sloh.png" alt="ba-ra-sloh" border="0"></a>
+
+[[Přečíst text, pokud se obrázek nezobrazuje->Bara sloh]]
+
+
+
+
+
+Máte podezření, že Bára práci nepsala sama? 
+
+
+[[Ne, Bára práci určitě vypracovala sama.->Bara03a]]
+
+[[Ano, mám pocit, že někde v procesu použila AI.->Bara03b]]
+
+
+:: \ Chris02 {"position":"500,1300","size":"100,100"}
+Chris odevzdal následující slohovou práci:
+
+
+
+<a href="https://ibb.co/Lz29SLP"><img src="https://i.ibb.co/gMBty57/chris-sloh.png" alt="chris-sloh" border="0"></a>
+[[Přečíst text, pokud se obrázek nezobrazuje->Chris sloh]]
+
+
+
+Máte podezření, že Chris práci nepsal sám? 
+
+
+[[Ne, Chris práci určitě vypracoval sám.->Chris03a]]
+
+[[Ano, mám pocit, že někde v procesu použil AI.->Chris03b]]
+
+
+:: Adam sloh {"position":"800,300","size":"100,100"}
+Můj pokoj
+Od té doby, co jsme se přestěhovali do rodinného domu, mám dětský pokoj sám pro sebe. Můj pokoj je ve druhém patře našeho domu, v podkroví. Když přijdete do mého pokoje, uvidíte velká střešní okna a pod nimi psací stůl, kde si píšu úkoly, učím se a kde sestavuju modely letadel.
+
+Vedle stolu mám knihovnu. Je v ní spousta knih, některé z nich jsou ještě pohádkové, ale většina je o indiánech, dinosaurech a o fotbale. To jsou moje největší koníčky.
+
+Nalevo od stolu mám dvě skříňky, ve kterých mám schované Lego, dalekohled, suvenýry z výletů, sbírku kamenů a další užitečné věci.
+
+Před skříňkami mám koberec se silnicí, po kterém se jezdí autíčky, ale teď celý prostor zabírá velký model hradu.
+
+Když opatrně projdu kolem hradu, jsem ve své posteli. Nad postelí mám poličku na knížku, kterou zrovna čtu, krabičku na poklady a diplom za první místo v plavecké soutěži. U nohou postele mám noční stolek, na kterém je budík. To je sice nepraktické, ale kvůli hradu není na noční stolek místo u hlavy.
+
+Za dveřmi mám ještě velkou skříň a v ní oblečení. Na stěny pokoje jsem si pověsil plakáty svého oblíbeného fotbalového klubu a jedné motorky, kterou si určitě koupím, až mi bude osmnáct let.
+
+[[Zpět-> Adam02]]
+
+
+:: Adam01 [done] {"position":"300,300","size":"100,100"}
+# Adam Řechták
+
+
+Adam je 
+
+* trochu hlasitější a nepozorný
+* v hodině občas vtipné poznámky, ale zasmějí se i učitelé
+* dominantní člen kolektivu
+* z písemek mívá pravidelně trojky, zdá se, že ho čeština nezajímá
+* slohové práce ho ale zajímají více, než literatura
+* občas svůj úkol odevzdá pozdě 
+* nemá nadmíru omluvených hodin, nemá neomluvené hodiny
+
+[[vybrat  jiného žáka->výběr studentů]]
+(align:"<==")+(box:"=X")
+[[podívat se na slohovou práci Adama-> Adam02]]
+
+
+:: Adam03a {"position":"500,425","size":"100,100"}
+U Adama nepředpokládáte, že použil AI.
+
+
+(A měli jste pravdu!)
+
+
+Pustte se do dalšího studenta
+
+[[přečíst sloh Báry ->Bara01]]
+[[přečíst sloh Chrise ->Chris01]]
+
+(align:"<==")+(box:"=X")
+
+[[už mám všechno opravené ->pochyby]]
+
+
+:: Adam03b {"position":"625,425","size":"100,100"}
+Hm, co je na Adamově slohu podivného?
+
+Možná, že vás hlodá, že:
+* často opakuje nepopisná slova. V textu celkem osmkrát používá "mám" a pětkrát "je",
+* Adam nevypadá jako člověk, který by v pokoji měl Lego apod.,
+* celý popis zní, že nemá duši.
+
+Nejste si ale na stoprocent jistí a rozhodnete se využít online nástroj na detekci použití umělé inteligence.
+
+
+
+
+
+[[Zkontrolovat slohovku online ->Adam04b]]
+
+
+
+:: Adam04b {"position":"625,550","size":"100,100"}
+Vygooglili jste si //detektor AI čeština// a klikli na odkaz vedoucí na //Nejpřesnější český detektor umělé inteligence//. Vložili jste Adamovu slohovku a ejhle:
+
+<a href="https://ibb.co/cxbTrQ4"><img src="https://i.ibb.co/8Xz8791/adam-isgen.png" alt="adam-isgen" border="0"></a>
+
+No to teda ne! Adamovu slohovku odkládáte bokem a hodláte si ho zavolat do kabinetu.
+
+
+[[Pokračovat->Adam05b]]
+
+
+:: Adam05b {"position":"625,675","size":"100,100"}
+Adamova slohovka ale ve skutečnosti byla napsaná člověkem. 
+
+
+Křivé obvinění může v Adamovi vyvolat ztrátu motivace ke studiu, důvěry a pocit nespravedlnosti.
+
+Zkuste to znova!
+
+[[přečíst sloh Báry ->Bara01]]
+[[přečíst sloh Chrise ->Chris01]]
+
+(align:"<==")+(box:"=X")
+
+[[už mám všechny opravené ->pochyby]]
+
+
+:: Bara sloh {"position":"800,800","size":"100,100"}
+Můj pokoj se nachází v prvním patře našeho domu a je to moje nejoblíbenější místo. Hned, jak vstoupíte, vás uvítá velké okno, které poskytuje krásný výhled do zahrady. Před oknem stojí můj psací stůl, kde trávím hodně času, ať už učení nebo kreslením. Na stole mám lampičku, která večer osvětluje celý pokoj příjemným teplým světlem. Vedle stolu je polička plná mých oblíbených knížek a drobností, které jsem nasbírala během let.
+
+      Po pravé straně pokoje mám postel, která je vždy pokrytá měkkou dekou a několika polštáři. Nad postelí visí nástěnka, na kterou si připínám fotky s kamarády, pohlednice a obrázky, které jsem si sama namalovala. Vedle postele mám noční stolek, na kterém leží knížka, kterou právě čtu, a můj oblíbený plyšový medvěd, kterého mám od dětství.
+
+      Největším pokladem mého pokoje je ale můj křeček, jmenuje se Max. Max má svůj domeček v kleci hned vedle postele, a když večer usínám, slyším, jak běhá ve svém kolečku nebo okusuje dřevěnou tyčku. Občas si ho vytáhnu a nechám ho proběhnout po pokoji – rád prozkoumává všechny kouty.
+
+      Na opačné straně pokoje se nachází šatní skříň, která ukrývá všechno moje oblečení. Dveře skříně občas vrznou, když je otevírám, ale mně to nevadí, je to takový zvuk mého pokoje. Uprostřed místnosti mám malý koberec, kde si často sedám a pracuju na domácích úkolech nebo jen tak přemýšlím.
+
+      Můj pokoj je malý, ale útulný. Mám tu všechno, co potřebuji, a cítím se v něm opravdu dobře. A Max mi dělá společnost, když se mi chce jen tak lenošit.
+      
+      
+[[Zpět-> Bara02]]
+
+
+:: Bara01 {"position":"300,800","size":"100,100"}
+# Bára Milanová
+
+Bára je
+
+* tichá, ráda si čte
+* má ve třídě několik kamarádek, většinou se baví jen s nimi
+* z češtiny mívá většinou jedničky
+* úkoly odevzdává vždy včas
+* loňský školní rok často chyběla kvůli dlouhým hospitalizacím
+* občas se v hodinách nudí
+
+[[vybrat jiného žáka->výběr studentů]]
+
+[[podívat se na slohovou práci Báry -> Bara02]]
+
+
+:: Bara03a {"position":"500,925","size":"100,100"}
+U Báry nepředpokládáte, že použila umělou inteligenci.
+
+Opak je však pravdou.
+
+Přestože jsou v textu osobité detaily, které indikují, že jde o originální tvorbu, podobné detaily lze do textu vložit pouhým pošoupnutím AI ke správnému směru.
+
+Detaily procesu generování uvidíte později.
+
+Kdo ví, jaké motivace k tomu Bára měla...
+
+Možná měla problémy doma a nestíhala vypracovat sloh sama?
+Možná byla nemocná?
+Možná si nevěří, že ji zvládne napsat lépe sama?
+
+Pustte se do dalšího žáka
+
+[[přečíst sloh Adama ->Adam01]]
+[[přečíst sloh Chrise ->Chris01]]
+[[už mám všechno opravené ->pochyby]]
+
+
+:: Bara03b {"position":"625,925","size":"100,100"}
+Hm, co je na Adamově slohu podivného?
+
+Možná, že vás hlodá, že:
+* úroveň neodpovídá běžné práci, kterou Bára odevzdává,
+* celý popis zní, že nemá duši.
+
+Nejste si ale na stoprocent jistí a rozhodnete se využít online nástroj na detekci použití umělé inteligence.
+
+
+[[Zkontrolovat slohovku online ->Bara04b]]
+
+
+
+:: Bara04b {"position":"625,1050","size":"100,100"}
+Vygooglili jste si //detektor AI čeština// a klikli na odkaz vedoucí na //Bezplatný detektor obsahu AI//. Vložili jste Adamovu slohovku a ejhle:
+
+<img src="https://i.ibb.co/hc10ft4/ba-ra-Open-L.png" alt="ba-ra-Open-L" border="0" width=250px>
+
+
+
+[[Má pravdu?->Bara05b]]
+
+
+:: Bara05b {"position":"625,1175","size":"100,100"}
+V tomto případě bohužel nemá. Bářina práce je celá vygenerovaná umělou inteligencí. 
+
+Kdo ví, jaké motivace k tomu Bára měla...
+
+Možná měla problémy doma a nestíhala vypracovat sloh sama?
+Možná byla nemocná?
+Možná si nevěří, že ji zvládne napsat lépe sama?
+
+
+[[přečíst sloh Adama ->Adam01]]
+[[přečíst sloh Chrise ->Chris01]]
+[[už mám všechny opravené ->pochyby]]
+
+
+:: Chris sloh {"position":"800,1300","size":"100,100"}
+Náš byt se nachází ve druhém patře a v něm je umístěn i můj pokoj, který sdílím se svým mladším bratrem. Pokoj není příliš velký, ani přepychově zařízený, ale přesto ho máme rádi.
+Do pokoje se vchází dveřmi z malé, podlouhlé chodby. Jelikož se náš byt nachází v podkroví, vlastní i náš pokoj dvě střešní okna. Na zemi je modrý koberec a v místnosti je všechen nábytek vyroben ze světlého dřeva. Stěny jsou vymalované bílou barvou, která prosvětluje celý pokoj. Vlevo od dveří stojí knihovna a v ní jsou seřazeny všechny naše knížky. V dolní části knihovny jsou vystavena bratrova autíčka a vojáčci. Mezi knihovnou a postelí se nacházejí dvě stejné skříně, kde máme oblečení. Pod oknem, které je dál od dveří, mám svoji postel. Nad hlavou postele mám pověšenou poličku, na kterou si dávám mobil, který mě ráno budí do školy. Vedle mé postele, mezi okny je stoleček a na něm televize. U zdi naproti mé posteli leží postel mého bratra. Těsně za ní u vchodu do pokoje má bratr pracovní stůl. Na stole i v něm jsou jeho věci - školní potřeby, učebnice a počítač. U stolu samozřejmě nechybí ani modrá židle.
+Přestože v pokoji netrávím mnoho času, nikdy bych ho za žádný jiný nevyměnil.
+
+[[Zpět-> Chris02]]
+
+
+:: Chris01 {"position":"300,1300","size":"100,100"}
+# Chris Tvořil
+
+Chris je
+
+* kreativní a přemýšlivý, ale často se ztrácí v detailech
+* rád se zapojuje do diskuzí, má vlastní názory a nebojí se je vyjádřit
+* z písemných prací mívá dobré známky, pokud se mu podaří udržet koncentraci
+* ve třídě má pár blízkých přátel, často pracuje raději samostatně než v týmu
+* někdy odevzdává práci s výtvarnými prvky
+* občas v hodinách působí zamyšleně a mimo dění
+
+
+[[vybrat  jiného žáka->výběr studentů]]
+
+[[podívat se na slohovou práci Chrise -> Chris02]]
+
+
+:: Chris03a {"position":"500,1425","size":"100,100"}
+U Chrise nepředpokládáte, že použil umělou inteligenci.
+
+
+(A měli jste pravdu!)
+
+
+Pustte se do dalšího studenta
+
+[[přečíst sloh Báry ->Bara01]]
+[[přečíst sloh Adama ->Adam01]]
+[[už mám všechno opravené ->pochyby]]
+
+
+:: Chris03b {"position":"625,1425","size":"100,100"}
+Hm, co je na Chrisově slohu podivného?
+
+Možná, že vás hlodá, že:
+* Chris nepoužívá barvitá slova,
+* použitá slova zní genericky,
+* celý popis zní, že nemá duši.
+
+Nejste si ale na stoprocent jistí a rozhodnete se využít online nástroj na detekci použití umělé inteligence.
+
+
+
+
+[[Zkontrolovat slohovku online ->Chris04b]]
+
+
+
+:: Chris04b {"position":"625,1550","size":"100,100"}
+Vygooglili jste si //detektor AI čeština// a klikli na odkaz vedoucí na //Nejpřesnější český detektor umělé inteligence//. Vložili jste Chrisovu slohovku a ejhle:
+
+     <img src="https://i.ibb.co/hRwh92F/chris-isgen.png" alt="chris-isgen" border="0" width=300px>
+
+No to teda ne! Adamovu slohovku odkládáte bokem a hodláte si ho zavolat do kabinetu.
+
+
+[[Pokračovat->Chris5b]]
+
+
+:: Chris5b {"position":"625,1675","size":"100,100"}
+Chrisova slohovka ale ve skutečnosti byla napsaná člověkem. 
+
+
+Křivé obvinění může v Chrisovi vyvolat ztrátu motivace ke studiu, důvěry a pocit nespravedlnosti.
+
+Zkuste to znova!
+
+
+[[přečíst sloh Adama ->Adam01]]
+[[přečíst sloh Báry ->Bara01]]
+
+[[už mám všechny opravené ->pochyby]]
+
+
+:: další čtení [done] {"position":"2225,175","size":"100,100"}
+# Další četba
+<a href="https://www.muni.cz/o-univerzite/uredni-deska/stanovisko-k-vyuzivani-ai">Stanovisko k využívání umělé inteligence ve výuce na Masarykově univerzitě v Brně</a>
+Masarykova univerzita využívání nástrojů AI podporuje a ''doporučuje jejich aktivní využívání'' studujícím i vyučujícím, ovšem v souladu s ''etickými a bezpečnostními principy''. Vnímá, že umělá inteligence bude v budoucnu nabývat na důležitosti, ovšem vyzývá k opatrnosti a pragmatismu.
+
+
+
+<a href="https://help.openai.com/en/articles/8313351-how-can-educators-respond-to-students-presenting-ai-generated-content-as-their-own">Vyjádření OpenAI k užívání detektorů.(EN)</a>
+Společnost OpenAI, která stojí za vznikem nejpoužívanějšího AI chatbota, ChatGPT v textu varuje, že dle jejich výzkumu ''nejsou detektory využití AI v textu spolehlivé''. Detektor, který sami vyvíjeli, označil například díla Shakespeara, nebo Deklaraci nezávislosti Spojených států amerických za vygenerované. Doporučuje vést studenty k ''informační gramotnosti''.
+
+
+
+<a href="https://fctl.ucf.edu/technology/artificial-intelligence/">Návrh na přístup k AI od University of Central Florida.</a>
+University of Central Florida vydala ''sadu návrhů, jak s nástroji umělé inteligence pracovat'' ve vzdělávání, včetně nápadů na zapojení do výuky.
+
+
+:: definice podvodu [done] {"position":"1500,100","size":"100,100"}
+# Co je vlastně podvádění?
+
+
+Když si žák nechá vygenerovat sloh, ''ale přepíše věty'', které mu přijdou krkolomné, je to podvádění? 
+
+Když si žák nechá v''ymyslet jiné formulace'' nějaké věty, u které se mu nelíbí vlastní slovosled, je to podvádění? 
+
+Když si žák nechá vygenerovat ''synonyma'' k výrazům, je to podvádění?
+
+Když si žák nechá vymyslet ''mnoho různých nápadů'' a z nich pak dál čerpá, je to podvádění?
+
+Když si žák nechá ''zkontrolovat pravopis'', je to podvádění?
+
+(b4r:"solid")+(b4r-colour:black)[''Je zásadní stanovit předem jasné hranice toho, jaká forma využití software je či není povolena.
+'']
+
+K sadě pravidel přiložte i ukázky povolených a nepovolených využití AI na konkrétních zadáních. 
+
+
+Spoustu metod výše se dnes ''běžně využívá'' všude tam, kde je potřeba psát text. Ať už jsou to asistenti i manažeři v kancelářích píšící emaily, copywriteři nebo novináři hledající správný výraz - svět jde kupředu a AI nástroje nám mohou být užitečné k ''urychení a zefektivnění'' práce - pracujícím i studentům. 
+
+
+Cesta absolutní prohibice je sice lákavá, ale pravděpodobně nastane den, kdy i vaši žáci budou mít nutkání umělou inteligenci použít - ne jako svou náhradu, ale jako pomocníka. Zastaví je pravděpodobně jejich morálka, vnitřní motivace a rozumně nastavené mantinely, které jim ovšem musí dávat smysl.
+
+
+Další čtení: <a href="https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/#Set_Clear_Policies_and_Expectations">Nastavení pravidel a očekávání podle MIT</a>
+
+(align:"<==")+(box:"=X")
+[[Jak podvádění zamezit bez falešných obvinění?->zamezeni]]
+
+
+:: google docs [done] {"position":"1700,375","size":"100,100"}
+# Existuje způsob, jak nechat psát slohové práce doma, ale mít větší míru kontroly?
+
+Odevzdávání úkolů například přes <a href="https://workspace.google.com/products/docs/">Google Docs</a> přináší další úroveň transparentnosti – učitel může vidět historii úprav, takže má přehled o tom, jak práce vznikala. To zároveň podporuje zodpovědnost studentů, protože vědí, že jejich proces práce je sledovatelný. 
+
+Existují různá rozšíření (např. <a href="https://chromewebstore.google.com/detail/draftback/nnajoiemfpldioamchanognpjmocgkbg">Draftback</a>), která umí měřit čas strávený v dokumentu, nebo zpětně přehrát psaní dokumentu. V případě pochyb si tak můžete zpětně pustit, jak přesně žák práci psal, včetně věškerého přepisování slov a úprav.
+
+
+
+[[Jak jinak zamezím podvádění?->zamezeni]]
+
+
+:: intro {"position":"175,100","size":"100,100"}
+# Detekce použití AI při psaní slohových prací
+
+
+Jako učitelé jste už mnohokrát procházeli štosy studentských textů a hledali známky autentičnosti, tvůrčího myšlení, nebo naopak lenosti. Teď se ale před vámi objevuje nový fenomén: umělá inteligence. Může být tichým spoluautorem některých prací, které se vám dostanou do rukou. 
+
+V tomto modulu budete prožívat modelovou situaci, která vám umožní znovu se podívat na svoji roli "opravovatele" slohové práce a zamyslet se nad tím, co všechno se ve studentském textu může skrývat.
+
+
+
+
+
+0. ''Prověříte svoje instinkty.'' V praktických příkladech si odzkoušíte, jestli zvládnete rozpoznat mezi autentickou prací žáka a výplodem umělé inteligence.
+0. ''Otestujete spolehlivost online detektorů.'' Budete moct porovnat výsledky AI detektorů s realitou.
+0. ''Rozvinete kritické myšlení o tom, jak AI ovlivňuje vzdělávání.'' Společně budeme hledat odpovědi na to, jaké výzvy a příležitosti tento fenomén přináší pro pedagogy.
+
+
+(align:"<==")+(box:"=X")
+[[[Pustit se do toho->zadaniDU]]]
+
+(set: $false_accusations to 0)
+(set: $detect_uses to 0)
+
+
+:: motivace [done] {"position":"1575,350","size":"100,100"}
+Skvělým způsobem, jak snížit riziko nevhodného využívání AI v domácích úkolech, je vyvolat ve studentech vnitřní motivaci. 
+
+MIT doporučuje následující metody:
+
+* Nechat studenty pochopit, jak je daný domácí úkol rozvine.
+* Tvořit prostor na sebereflexi a uvědomnění si, co se studenti naučili.
+* Rozdělit větší projekty na menší úkoly. (například odeslat osnovu, než začnou pracovat na výsledném referátu)
+* Dát studentům čas na opravu před finálním známkováním.
+* Propojit úkoly s životem studentů tak, aby pro ně měly skutečný význam.
+
+
+Více čtení: <a href="https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/#Foster_Intrinsic_Motivation">Tvoření vnitřní motivace (MIT).</a>
+
+[[Jak jinak zamezím podvádění?->zamezeni]]
+
+
+:: neprávem [done] {"position":"1250,300","size":"100,100"}
+# Co když jsem ale někoho osočil*a neprávem?
+
+
+AI detektory nejsou vůbec přesné – technologie může chybně vyhodnotit texty kvůli podobnosti vzorců nebo omezeným datům, což vede k nespravedlivému obvinění. 
+
+
+Neprávem osočený žák ztrácí důvěru v učitele i v sebe. Šíří se pocit nespravedlnosti, což vede ke zhoršení vztahů ve třídě. Ostatní studenti vidí, že i nevinný může být potrestán – ztrácejí motivaci se snažit.  Učitel přichází o autoritu a důvěru.
+
+
+
+
+[[Pořád na mě lezou pochyby...->pochyby]]
+
+
+:: oddlyspecific zadání {"position":"1425,850","size":"100,100"}
+Jedním ze způsobů, jak se vyhnout generickým zadáním slohu, je odzkoušet si, co vlastně AI vygeneruje, když jí předložím zadání domácího úkolu. Několika pokusy pak zjistím, jaký typ práce zhruba AI napíše.
+
+
+<img src="https://i.ibb.co/vwj8HdX/Screenshot-2024-09-24-at-17-15-55.png" alt="Screenshot-2024-09-24-at-17-15-55" border="0">
+
+
+Můžeme tak odhadnout, jaká téma je náchylnější ke generickým textům, u kterých mohou vznikat pochybnosti.
+
+
+S prompty si ale lze i trochu vyhrát. Například Bářina slohová práce vznikala postupným promptováním a přiložením vzorových slohových prací na stejné téma:
+
+<img src="https://i.ibb.co/dkwzSjP/Screenshot-2024-09-24-at-17-11-55.png" alt="Screenshot-2024-09-24-at-17-11-55" border="0">
+
+
+Existují tedy i metody, jak původní generičnost výstupu obejít.
+
+
+[[Jak jinak zamezím podvádění?->zamezeni]]
+
+
+:: papír [done] {"position":"1700,225","size":"100,100"}
+Návrat k psaní testů na papír ve škole možná na první pohled vypadá jako lákavé řešení, ale studentům tím nevyjdeme vstříc, ba naopak. Ve stresovém prostředí nemají dostatek času, aby si po sobě práci přečetli, zkontrolovali a v klidu dokončili. Navíc, nervozita a tlak, které takové prostředí vytváří, mohou snižovat jejich schopnost podávat nejlepší výkony.
+
+Dnes žijí studenti, stejně jako pracující, ve světě, který je digitální. A to není jen jejich svět, ale i budoucnost pracovního prostředí. Studenti se potřebují připravit na reálné podmínky, kde ''flexibilita'', ''přístup k technologiím'' a schopnost pracovat efektivně i mimo rigidní časové hranice jsou klíčové. Vrátit se k metodám minulosti by znamenalo bránit studentům v rozvoji kompetencí, které budou jako budoucí pracující potřebovat.
+
+[[Jak jinak zamezím podvádění?->zamezeni]]
+
+
+:: pochyby [done] {"position":"1100,100","size":"100,100"}
+Uf, pro dnešek máte opravování slohovek hotové! Teď na vás ale jdou pochyby... 
+
+[[Jak přesné jsou vlastně detektory AI?->shrnuti detektoru]]
+
+
+[[Co když jsem ale někoho osočil*a neprávem?->neprávem]]
+
+
+
+Psaní slohových prací už asi nebude nikdy stejné. Sotva před pár lety jsme ve sborovně řešili slohovky opsané z internetu a teď je zde zase další trik, který můžou žáci vytasit z rukávu.
+
+
+(align:"<==")+(box:"=X")
+[[Proč si prostě nemůžu...->proč prostě]]
+
+
+
+:: proč prostě [done] {"position":"1325,100","size":"100,100"}
+## Proč se prostě nemůžu 
+jen ChatGPT zeptat "Vygeneroval jsi někdy tento text:___" a vložit studentovu slohovku?
+
+
+Nástroje umělé inteligence nemají veřejnou "Historii", do které by se dalo nahlédnout, nebo se zeptat, zda se v ní nachází výsledek "XY". Jakákoliv odpověď, kterou na toto dá, je náhodná a nedá se jí důvěřovat. 
+
+
+Více čtení: <a href="https://help.openai.com/en/articles/8318890-can-i-ask-chatgpt-if-it-wrote-something">Můžu se ChatGPT zeptat, jestli něco napsalo? (OpenAI)</a>
+
+
+
+(align:"<==")+(box:"=X")
+[[Co to vlastně znamená podvádět?->definice podvodu]]
+
+
+
+:: reference {"position":"2200,450","size":"100,100"}
+# Reference
+
+
+<a href="https://www.muni.cz/o-univerzite/uredni-deska/stanovisko-k-vyuzivani-ai">Stanovisko k využívání umělé inteligence ve výuce na Masarykově univerzitě v Brně</a>
+
+<a href="https://help.openai.com/en/articles/8313351-how-can-educators-respond-to-students-presenting-ai-generated-content-as-their-own">Vyjádření OpenAI k užívání detektorů.(EN)</a>
+
+<a href="https://fctl.ucf.edu/technology/artificial-intelligence/">Návrh na přístup k AI od University of Central Florida.</a>
+
+<a href="https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/#Foster_Intrinsic_Motivation"> AI Detectors Don’t Work. Here’s What to Do Instead.
+(MIT).</a>
+
+
+
+## Použité detektory
+
+<a href="https://isgen.ai/cs">Isgen.ai</a>
+<a href="https://smodin.io/cs/ai-detektor-obsahu">Smodin</a>
+<a href="https://openl.io/cs/ai-detector">OpenL</a>
+<a href="https://neuralwriter.com/cs/content-detector-tool/#progress=0">Neural Writer</a>
+
+
+## Slohové práce
+<a href="https://lingua.com/czech/reading/pokoj/">Adamova.</a>
+
+<a href="https://chatgpt.com/share/e/66eda945-756c-8010-857e-dcf78fc6d9e5">Jak vznikal sloh Báry.</a>
+
+<a href="https://zeskrine.blogspot.com/2013/07/muj-pokoj-sloh-popis-mistnosti.html">Chrisova.</a>
+
+
+:: shrnuti detektoru {"position":"1075,325","size":"100,100"}
+''Adamova'' práce je napsaná ''člověkem''. Přesto od tří různých poskytovatelů daly detekce výsledky:
+
+
+<div style="width: 49%; float: left; padding: 10px;">
+        <img src="https://i.ibb.co/2YvryzR/ADAM-neural-writer.png" alt="ADAM-neural-writer" border="0" width=250px>
+<img src="https://i.ibb.co/SNNhKCD/Adam-Open-L.png" alt="Adam-Open-L" border="0" width=250px>
+<img src="https://i.ibb.co/nw8psRT/Adam-smodin.png" alt="Adam-smodin" border="0" width=250px>
+    </div>
+    <div style="width: 49%; float: left; padding: 10px;">
+        <img src="https://i.ibb.co/8Xz8791/adam-isgen.png" alt="adam-isgen" border="0" width=300px>
+    </div>
+
+<br>
+''Bářina'' práce byla'' generovaná AI'' a dále neupravována. Detektory ji hodnotily takto:
+
+<div style="width: 50%; float: left; padding: 10px;">
+        <img src="https://i.ibb.co/vvmD8BQ/ba-ra-neural-writer.png" alt="ba-ra-neural-writer" border="0" width=250px>
+<img src="https://i.ibb.co/hc10ft4/ba-ra-Open-L.png" alt="ba-ra-Open-L" border="0" width=250px>
+<img src="https://i.ibb.co/T185wtg/ba-ra-smodin.png" alt="ba-ra-smodin" border="0" width=250px>
+    </div>
+    <div style="width: 50%; float: left; padding: 10px;">
+        <img src="https://i.ibb.co/5vF34NK/ba-ra-isgen.png" alt="ba-ra-isgen" border="0" width=300px>
+    </div>
+
+
+''Chrisova'' práce je napsaná ''člověkem''. Přesto i u něj detektory varovně hlásily:
+
+<div style="width: 50%; float: left; padding: 10px;">
+        <img src="https://i.ibb.co/1sBf2vB/chris-Neural.png" alt="chris-Neural" border="0" width=250px>
+<img src="https://i.ibb.co/ZVMSyZw/chris-open-L.png" alt="chris-open-L" border="0" width=250px>
+<img src="https://i.ibb.co/mtGwR5C/chris-smodin.png" alt="chris-smodin" border="0" width=250px>
+    </div>
+    <div style="width: 50%; float: left; padding: 10px;">
+       <img src="https://i.ibb.co/hRwh92F/chris-isgen.png" alt="chris-isgen" border="0" width=300px>
+    </div>
+
+
+''Ani jeden detektor se nezvládl jednoznačně shodnout na skutečném autorství!
+''
+
+[[Pořád na mě lezou pochyby...->pochyby]]
+
+
+
+
+:: výběr studentů {"position":"700,100","size":"100,100"}
+
+
+Usedáte k pracovnímu stolu a pouštíte se do opravování. 
+
+Kterým žákem chcete začít?
+
+
+ 
+[[Adam->Adam01]]
+
+[[Bára->Bara01]]
+
+[[Chris->Chris01]]
+
+
+
+:: zadaniDU {"position":"500,100","size":"100,100"}
+Vžijte se do úlohy učitele, který se doma pouští do opravy čerstvě odevzdaných slohových prací.
+
+Zadání bylo popis na téma "Můj pokoj" ve třídě 8.A.
+
+
+
+
+(align:"<==")+(box:"=X")[[[Pustit se do opravování->výběr studentů]]]
+
+
+
+
+:: zamezeni {"position":"1700,100","size":"100,100"}
+# Jak podvádění zamezit bez falešných obvinění?
+
+
+[[Návrat k tužkám a papíru v lavicích! ->papír]]
+[[Moderní metody dozoru? ->google docs]]
+[[Jak chytře změnit zadání->změna zadání]]
+[[Motivace studentů nepodvádět->motivace]]
+
+
+(align:"<==")+(box:"=X")
+[[Dočteno! ->zavěr]]
+
+
+
+
+
+:: zavěr [done] {"position":"2000,100","size":"100,100"}
+A jsme u konce! Na závěr si shrňme, co jsme dnes zjistili.
+
+
+1. ''Nespolehlivost detektorů AI'': 
+   Současné nástroje pro detekci AI ''nejsou  přesné''. Falešná obvinění mohou mít dalekosáhlé důsledky.
+
+2. ''Vnitřní motivace studentů'':
+   Žáci potřebují rozumět hodnotě své vlastní práce.
+
+3. ''Přístup k výuce'':
+Inovace zadání, rozvoj kritického myšlení a jasná pravidla pomáhají předcházet zneužívání AI a podporují autentické učení.
+
+
+Doufáme, že jste se něco nového dozvěděli a inspirovali k tvoření vlastního přístupu k umělé inteligenci ve vzdělávání.
+
+
+[[Další čtení->další čtení]]
+
+[[Reference->reference]]
+
+
+
+:: změna zadání [done] {"position":"1350,475","size":"100,100"}
+Některá témata slohové práce jsou "náchylnější" k úspěšnému použití umělé inteligence, než jiná.
+
+
+Při zadání tématu popisu //Můj pokoj// nemáte jistotu, že popisovaný pokoj je skutečný, a ne jen vymyšlený počítačem. 
+
+Naopak u zadání //Moje učebna češtiny// je jasné, co přesně má být popisováno, víte, zda popis odpovídá realitě a je mnohem těžší umělé inteligenci předat informace tak, aby vygenerovala správný výsledek.
+[[Co vlastně vymyslí AI?->oddlyspecific zadání]]
+
+
+[[Jak jinak zamezím podvádění?->zamezeni]]
+
+
+:: StoryScript [script]
+
+// add Google Analytics global site tag
+$("head").prepend('<!-- Global site tag (gtag.js) - Google Analytics -->\n\
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D0BWZEGDWM"><' + '/script>\n\
+<script>\n\
+  window.dataLayer = window.dataLayer || [];\n\
+  function gtag(){dataLayer.push(arguments);}\n\
+  gtag("js", new Date());\n\
+  gtag("config", "G-D0BWZEGDWM");\n\
+<' + '/script>'
+);
+
+// the progressing bar of the progress bar :)
+document.twineAnimateProgressBar = function () {
+    let progress = $("div.progress-bar").attr("data-value");
+    progress = parseInt(progress, 10) / 0.48;
+    $("div.progress-bar").append('<div class="progress-bar-bar" style="width: ' + progress + '%"></div>');
+}
+
+
+:: StoryStylesheet [stylesheet]
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+body {
+    margin: 0;
+    height: 100%;
+}
+
+h1 {
+    font-size: 200%;
+}
+h2 {
+    font-size: 150%;
+}
+
+
+/* original css to sort through */
+
+tw-hook[name^='goto'] {
+    box-shadow: 3x 3px 10px darkgray;
+    background-color: white;
+    border: #4BC8FF solid;
+    border-radius: 35px;
+    display: inline-block;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+    padding: 15px 20px;
+    text-decoration: none;
+    margin: 1%;
+    text-align: center;
+    width: 50%;
+}
+tw-hook[name^='goto']::after {
+    position: absolute;
+    top: 0;
+    right: -10px;
+    color: red;
+    content: "< this is tw-hook[name^='goto'] rule";
+}
+
+tw-hook[name^='goto']:hover {
+    background-color: #4BC8FF;
+    color: cyan;
+    color: white;
+}
+
+tw-hook[name^='goto']:active {
+    position: relative;
+    top: 2px;
+}
+
+.question {
+    text-align: center;
+    font-size: xx-large;
+}
+
+table {
+    padding: 2%;
+    width: 90%;
+}
+
+th {
+    text-align: center;
+    font-size: xx-large;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.virtue {
+    font-weight: bold;
+}
+
+.result {
+    text-align: center;
+}
+
+
+
+
+
+/* ======================
+    basic Twine elements 
+   ====================== */
+
+tw-story {
+    padding: 80px 12%;
+    min-height: 100%;
+
+    background-position: center;
+    background-attachment: fixed;
+    background-color: rgb(177, 207, 223);
+    background-size: cover;
+    
+    background-image: url("images/sky-balloons.png");
+
+    font-family: 'Poppins', sans-serif;
+}
+tw-story[tags ~= "antika"] {
+    background-image: url("images/antiquity-books.png");
+}
+
+tw-passage {
+    padding: 40px;
+    max-width: 900px;
+    width: 100%;
+    align-self: center;
+
+    background-color: white;
+    color: black;
+
+    box-shadow: -3px 7px 10px 2px rgba(0, 0, 0, 0.233);
+}
+tw-passage[tags ~= "antika"] {
+    box-shadow: -3px 7px 11px 3px rgba(0, 0, 0, 0.342);
+}
+
+tw-story tw-consecutive-br {
+    height: 1em;
+}
+
+
+
+/* =========================
+   Responsivness adjustments
+   ========================= */
+@media (max-width: 649px) {
+    /* narrow screen */
+    tw-story {
+        padding: 5%;
+    }
+    tw-passage {
+        font-size: 85%;
+        line-height: normal;
+        padding: 23px;
+        margin-top: 40px;
+        margin-bottom: 70px;
+    }
+}
+
+
+
+/*============================
+    Twine LINKS and buttons
+============================*/
+
+/* == general link/button == */
+tw-link,
+tw-link.visited,
+tw-hook[name='back'],
+/* test options */
+tw-hook[name^='choice'] {
+  	
+    /* text of the button */
+
+    display: inline-block;
+    padding: 0.3em 0.3em;
+    margin: 0.4em 0.4em;
+    min-width: 350px;
+    max-width: 100%;
+    z-index: 1;
+    color: #0000dc;
+    background-color: transparent;
+
+    transition: 190ms;
+    transition-property: color;
+  	
+}
+@media (max-width: 500px) {
+    tw-link,
+    tw-link.visited,
+    tw-hook[name='back'],
+    tw-hook[name^='choice'] {
+        min-width: 100%;
+    }
+}
+tw-link::before,
+tw-hook[name='back']::before,
+tw-hook[name^='choice']::before {
+    /* the little strip */
+    content: "";
+    height: 100%;
+    width: 0.3em;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+
+    background-color: #0000dc;
+
+    transition: 300ms ease-in-out;
+    transition-property: width;
+}
+tw-link::after,
+tw-hook[name='back']::after,
+tw-hook[name^='choice']::after {
+    /* background rectangle */
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -2;
+
+    background-color: #EBF0FF;
+}
+
+/* == hover/focus link button == */
+tw-link:hover,
+tw-link:focus,
+tw-hook[name='back']:hover,
+tw-hook[name='back']:focus,
+tw-link.visited:hover,
+tw-link.visited:focus,
+/* test options */
+tw-hook[name^='choice']:hover,
+tw-hook[name^='choice']:focus {
+    color: #fff;
+}
+tw-link:hover::before,
+tw-link:focus::before,
+tw-link.visited:hover::before,
+tw-link.visited:focus::before,
+tw-hook[name='back']:hover::before,
+tw-hook[name='back']:focus::before,
+tw-hook[name^='choice']:hover::before,
+tw-hook[name^='choice']:focus::before {
+    content: "";
+    height: 100%;
+    width: 100%;
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    background-color: #0000dc;
+}
+
+
+/* two different sizes for the contents page links */
+tw-hook[name^='hook1'] {
+    font-size: 90%;
+}
+tw-hook[name^='hook2'] {
+    font-size: 80%;
+}
+
+
+/* color coded strengths links */
+tw-hook[name='wsd'] tw-link::before,
+tw-hook[name='cour'] tw-link::before,
+tw-hook[name='lov'] tw-link::before,
+tw-hook[name='jstc'] tw-link::before,
+tw-hook[name='mdr'] tw-link::before,
+tw-hook[name='trns'] tw-link::before {
+    /* link color coding */
+    border-right: var(--color-coding) 0.3em solid;
+    background-color: var(--color-coding);
+    transition-property: width, background-color, border-width;
+}
+tw-hook[name='wsd'] tw-link,
+tw-hook[name^='wis'] {
+    /* wisdom */
+    --color-coding: #0680DE;
+}
+tw-hook[name='cour'] tw-link,
+tw-hook[name^='crg'] {
+    /* courage */
+    --color-coding: #F37B30;
+}
+tw-hook[name='lov'] tw-link,
+tw-hook[name^='luv'] {
+    /* love */
+    --color-coding: #DD5296;
+}
+tw-hook[name='jstc'] tw-link,
+tw-hook[name^='jus'] {
+    /* justice */
+    --color-coding: #F6CB2C;
+}
+tw-hook[name='mdr'] tw-link,
+tw-hook[name^='mod'] {
+    /* moderation */
+    --color-coding: #D4B8F7;
+}
+tw-hook[name='trns'] tw-link,
+tw-hook[name^='tra'] {
+    /* transcendancy */
+    --color-coding: #6EE5D9;
+}
+tw-hook[name='wsd'] tw-link:hover::before,
+tw-hook[name='cour'] tw-link:hover::before,
+tw-hook[name='lov'] tw-link:hover::before,
+tw-hook[name='jstc'] tw-link:hover::before,
+tw-hook[name='mdr'] tw-link:hover::before,
+tw-hook[name='trns'] tw-link:hover::before {
+    border-right-width: 0.5em;
+    background-color: #0000dc;
+}
+
+/* == tests results style (strengths) == */
+tw-hook[name^='wis'],
+tw-hook[name^='crg'],
+tw-hook[name^='luv'],
+tw-hook[name^='jus'],
+tw-hook[name^='mod'],
+tw-hook[name^='tra'] {
+    display: block;
+    border-left: var(--color-coding) 0.4em solid;
+    font-size: x-large;
+    padding: 0 0.35em;
+    margin: 0.35em 0;
+}
+
+
+
+
+/*==========================
+    Navigation
+==========================*/
+
+tw-sidebar {
+    position: absolute;
+    left: -80px;
+}
+
+/* ugly hack to beat the tw-icon[alt] selector in default twine */
+.navigation-button[class] {
+    opacity: 0.7;
+    margin: 20px 0;
+    /* background-color: #ebf0ff99;
+    padding: 10px; */
+    transition: 300ms;
+    transition-property: transform, opacity;
+}
+.navigation-button[class]:hover {
+    opacity: 1;
+    transform: scale(1.05);
+}
+.navigation-button img {
+    width: 50px;
+}
+
+@media (max-width: 649px) {
+    /* narrow screen */
+    tw-sidebar {
+        position: absolute;
+        top: -95px;
+        left: 7.5%;
+        width: 85%;
+
+        height: 30px;
+        flex-direction: row;
+    }
+    
+    .navigation-button img {
+        height: 35px;
+    }
+}
+
+
+
+/*=====================
+        modals
+=====================*/
+
+/* dialog container */
+.modalDialog {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    padding: 6vh 4vw;
+    z-index: 10000;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: auto;
+
+    background: rgba(0, 0, 0, 0.75);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 400ms;
+}
+.modalDialog:target {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+/* modal content */
+.modalDialog > div {
+    width:100%;
+    max-width: 45em;
+    flex-grow: 0;
+    margin: auto 0px;
+    padding: 27px;
+
+
+    background: #fff;
+    box-shadow: -5px 15px 17px 15px rgba(0, 0, 0, 0.3);
+}
+@media (max-width: 649px) {
+    /* narrow screen */
+    .modalDialog > div {
+        padding: 15px;
+    }
+}
+.modalDialog > div::after {
+    /* invisible "padding" to ensure user can scroll
+        all the way to the bottom of the bubble
+        (that is past its border bc shadow/glow fx) */
+    content: "";
+    position: absolute;
+    top: 100%;
+    opacity: 0;
+    pointer-events: none;
+    height: 60px;
+    width: 1px;
+}
+
+.modalDialog .close,
+.modalDialog .close:hover {
+    /* close link */
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+
+    width: 100vw;
+    height: 100vh;
+
+    background: #0000;
+    color: #0000;
+}
+.modalDialog > div::before {
+    /* adding an x above of the modal */
+    position: absolute;
+    right: 0.15em;
+    top: -1.35em;
+    width: 1em;
+    height: 1em;
+    z-index: -2;
+    /* setting it underneath the close link */
+
+    font-family: sans-serif;
+    content: "×";
+    text-align: center;
+    line-height: 1.1em;
+
+    color: rgb(0, 0, 0);
+    background-color: rgb(70, 70, 70);
+    opacity: 0.5;
+}
+
+.modalDialog img {
+    width: auto;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+
+a.inmod:any-link,
+.modbut:any-link {
+    color: rgb(0, 179, 30);
+    transition: 300ms;
+    transition-property: color, underline, text-shadow;
+    text-decoration: underline;
+}
+a.inmod:any-link:hover,
+.modbut:any-link:hover {
+    color: rgb(0, 134, 22);
+    text-shadow: rgb(0, 134, 22) 0 0 0.5px;
+    text-decoration: underline;
+    text-decoration-thickness: 1.5px;
+}
+
+
+/* .modbut {
+
+}
+
+.modbut:hover {
+
+}*/
+
+/*======================
+    <a> hyperlinks
+======================*/
+
+.hyper {
+    color: hsl(170, 98%, 40%);
+    text-decoration: underline;
+    transition-property: color, underline, text-shadow;
+}
+.hyper:hover {
+    color: hsl(170, 90%, 46%);
+    text-shadow: hsl(170, 90%, 46%) 0 0 0.5px;
+    text-decoration-thickness: 1.5px;
+}
+.hyper:visited {
+    color: hsl(182, 100%, 27%);
+    text-decoration: underline;
+    transition-property: color, underline, text-shadow;
+}
+.hyper:visited:hover {
+    color: hsl(182, 100%, 22%);
+    text-shadow: hsl(182, 100%, 22%) 0 0 0.5px;
+    text-decoration-thickness: 1.5px;
+}
+
+
+
+
+
+/*============================
+    Images and such
+============================*/
+
+.imbox {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+/* images shadow */
+.imbox img,
+img.cimage,
+.modalDialog div img,
+.modalDialog div iframe {
+    box-shadow: -1px 3px 6px 1px rgba(0, 0, 0, 0.3);
+}
+
+.inlimg {
+    width: auto;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.cimage {
+    max-width: 100%;
+    max-height: 20em;
+    /* width: 570px; */
+    display: block;
+}
+
+tw-passage[tags ~= "examples"] a img,
+a.hyper img {
+    border: solid 0.2em;
+    transition: 300ms;
+    transition-property: border, transform;
+}
+tw-passage[tags ~= "examples"] a img:hover,
+a.hyper img:hover {
+    transform: scale(1.02);
+    z-index: 2;
+}
+
+tw-passage[tags ~= "examples"] a img {
+    border-color: rgb(0, 179, 30);
+}
+tw-passage[tags ~= "examples"] a img:hover {
+    border-color: rgb(0, 146, 24);
+}
+
+a.hyper img {
+    border-color: hsl(170, 98%, 40%);
+}
+a.hyper img:hover {
+    border-color: hsl(170, 90%, 46%);
+}
+a.hyper img {
+    display: inline-block;
+    margin: 1%;
+    width: 47%;
+    max-width: 13em;
+}
+
+a.book-modal-init {
+    display: block;
+    width: max-content;
+}
+
+
+/*==========================
+    Progress bar
+==========================*/
+
+div.progress-bar {
+    height: 0.6em;
+    width: 100%;
+    background-color: #ebf0ff;
+}
+div.progress-bar-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    
+    background-color: #ced9ff;
+}
+
+div.progress-bar::after {
+    /* color: rgb(85, 85, 85); */
+    content: attr(data-value) "/48";
+
+    position: absolute;
+    top: -70%;
+    left: 0;
+    
+    height: 200%;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+
+/*==========================
+    other stuff
+==========================*/
+
+.citace {
+    margin: 1em 0px 0px auto;
+    text-align: right;
+    font-size: 65%;
+    line-height: 1.4em;
+    max-width: 30em;
+    word-wrap: break-word;
+}
+
+blockquote {
+    text-align: justify;
+}
+
+.footnote {
+    font-size: 0.9rem;
+}
+
+.tube {
+    width: 32em;
+    height: 18em;
+    max-width: 100%;
+    display: flex;
+    margin: 0 auto;
+
+    background-color: black;
+    box-shadow: -3px 5px 5px 1px rgba(0, 0, 0, 0.404);
+}
+
+.frejm {
+    width: 100%;
+    height: 800px;
+}
+
+.modalDialog div.interactive-book-container {
+    width:100%;
+    max-width:1000px;
+}
+
+.videowrap {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.videowrap iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+.footnote {
+    font-size: 50%;
+}
+div.footnote {
+    display: block;
+    line-height: 1.3em;
+}
+
+
+.logo {
+    height: auto;
+    max-height: 100px;
+}
+
+.logolink {
+            display: block;
+            width: 85%;
+            margin: -20px auto;
+            margin-top: 5em;
+            box-shadow: none;
+}
+        
+.logotext {
+    margin: 0 auto;
+    max-width: 40em;
+    font-size: small;
+    line-height: 1.4em;
+    text-align: center;
+}
+
+.licence {
+    max-width: 60em;
+}
+
+
+/*====================
+   contents page
+====================*/
+ul.contents {
+    padding-left: 0;
+}
+ul.contents li {
+    list-style-type: none;
+}
+
+
+/*============================
+   credits page adjustments 
+============================*/
+div.flex-columns {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+div.flex-columns > div {
+    width: 50%;
+    min-width: 11em;
+    flex-grow: 1;
+    padding-right: 1em;
+}
+div.flex-columns > div.last-columnt {
+    padding-right: 0em;
+}
+
+tw-passage[tags ~= "credits"] .logo {
+    max-width: 12em;
+}
+tw-passage[tags ~= "credits"] ul {
+    margin: 0.2em 0em;
+    padding: 0.5em;
+    list-style: none;
+    padding-top: 0;
+    margin-top: -10px;
+}
+tw-passage[tags ~= "credits"] li {
+    margin: 0.2em 0em;
+    padding: 0em 1em;
+}
+tw-passage[tags ~= "credits"] li.category {
+    margin: 0.2em 0em;
+    padding: 0em;
+}
+img#muni-arts-logo,
+img#muni-med-logo,
+img#muni-logo-econ {
+    margin-left: -13px;
+}
+img#mzk-logo {
+    padding: 10px 0px 20px 0px;
+    margin-left: 4px;
+}
+ul#jan-rychly {
+    margin-top: 0.25em;
+    max-width: 12em;
+    border-top: solid #0000DC 0.2em
+}
